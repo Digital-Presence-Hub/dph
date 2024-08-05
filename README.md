@@ -47,3 +47,11 @@
       ```bash
       npm install react-bootstrap
       ```
+
+5. **React Hook Form**: React Hook Form is a library for handling form validation and state management in React applications. It simplifies the process of managing form inputs, validations, and submissions while providing a clean and efficient API.
+
+    - **Installation**:
+      React Hook Form was installed using npm:
+      ```bash
+      npm install react-hook-form
+      ```
