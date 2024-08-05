@@ -1,8 +1,51 @@
-# React + Vite
+# Documentation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Folder Structure
 
-Currently, two official plugins are available:
+- **`/src`:** This directory holds all the source code.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  - **`/components`:** 
+    - **`/contexts`:**
+    - **`/layout`:**
+  - **`/css`:** 
+  - **`/pages`:** 
+
+# Dependencies
+
+1. **React Icons**: 
+    - **Installation**:
+      React Icons was installed using npm:
+      ```bash
+      npm install react-icons
+      ```
+2. **Axios**: 
+    - **Installation**:
+      Axios was installed using npm:
+      ```bash
+      npm install axios
+      ```
+3. **React Router Dom**: 
+    - **Installation**:
+      React Router Dom was installed using npm:
+      ```bash
+      npm install react-router-dom
+      ```
+4. **Tailwindcss**: 
+    - **Installation**:
+      Tailwindcss was installed using npm:
+      ```bash
+      npm install -D tailwindcss postcss autoprefixer
+      npx tailwindcss init -p
+      ```
+5. **React Bootstrap**: 
+    - **Installation**:
+      React Bootstrap was installed using npm:
+      ```bash
+      npm install react-bootstrap
+      ```
+6. **React Font Awesome**: 
+    - **Installation**:
+      React Font Awesome was installed using npm:
+      ```bash
+      npm install tailwindcss
+      ```
